@@ -28,3 +28,24 @@ img.bang-bang-blended-chicken-burger {
     height: 300px;
     width: auto;
 }
+.list-of-recipes {
+    margin: 10px;
+}
+.cat-image {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.item {
+    margin: 20px;
+    padding-left: 200px; 
+}
+a {
+    color: crimson;
+}
+li {
+    display: block;
+    padding: 5px;
+}
+.body {
+    background-color: lightyellow;
+}
