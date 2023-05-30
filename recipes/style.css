@@ -42,10 +42,19 @@ img.bang-bang-blended-chicken-burger {
 a {
     color: crimson;
 }
-li {
+frontpage-item {
     display: block;
     padding: 5px;
 }
-.body {
+body {
     background-color: lightyellow;
+}
+
+h2 {
+    display: block;
+    padding: 5px;
+    background-color:lightsalmon;
+}
+h3 {
+    margin-left: 30px;
 }
